@@ -1,7 +1,7 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://hidden-depths-16708.herokuapp.com/",
+  "change_calculator": "https://dflores7237-react-change-calc.herokuapp.com/",
+  "mortgage_calculator": "https://dflo88-weather-app.herokuapp.com/",
+  "top_spots": "https://dflores7237-movie-finder.herokuapp.com/",
+  "vstda": "https://dflores7237-budget-tracker.herokuapp.com/"
 }
